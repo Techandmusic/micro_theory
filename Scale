@@ -1,0 +1,26 @@
+import 'dart:core';
+
+class Scale {
+
+  Chromatic chromatic;
+  List<String> scale;
+
+  Scale(String key, int tonality)
+  {
+    chromatic = new Chromatic(key);
+
+  }
+
+  List<String> makeScale(int tone)
+  {
+    switch(tone)
+    {
+      case: 1 {
+        scale.add()
+      }
+    }
+  }
+
+
+
+}
