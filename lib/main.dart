@@ -110,4 +110,6 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-//TODO Build a UI 
+//TODO Build a UI
+//TODO Build ChordScale class
+
